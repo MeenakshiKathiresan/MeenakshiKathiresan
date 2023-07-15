@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/meenakshikathiresan/static/css/main.e59dce6a.css",
+    "main.js": "/meenakshikathiresan/static/js/main.3daa43ca.js",
+    "static/js/787.cda612ba.chunk.js": "/meenakshikathiresan/static/js/787.cda612ba.chunk.js",
+    "static/media/AWS.pdf": "/meenakshikathiresan/static/media/AWS.031d25fabde3138dc3b7.pdf",
+    "static/media/Resume - Meenakshi Kathriesan.pdf": "/meenakshikathiresan/static/media/Resume - Meenakshi Kathriesan.e0e7c6ff21ae6ff102ad.pdf",
+    "index.html": "/meenakshikathiresan/index.html",
+    "main.e59dce6a.css.map": "/meenakshikathiresan/static/css/main.e59dce6a.css.map",
+    "main.3daa43ca.js.map": "/meenakshikathiresan/static/js/main.3daa43ca.js.map",
+    "787.cda612ba.chunk.js.map": "/meenakshikathiresan/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e59dce6a.css",
+    "static/js/main.3daa43ca.js"
+  ]
+}
